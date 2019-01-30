@@ -1,0 +1,14 @@
+{
+  "name": "reference-integration-rest-card-recurring",
+  "version": "1.0.0",
+  "description": "Reference Integration Rest: Card-Recurring",
+  "main": "index.js",
+  "scripts": {},
+  "author": "SwitchPayments",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.18.0",
+    "express": "4.16.4",
+    "ngrok": "3.1.0"
+  }
+}
